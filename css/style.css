@@ -1,0 +1,12 @@
+.bg-blue{
+    background-color: rgb(66,103,178);
+}
+.marge{
+    margin-left: 500px;
+}
+@media only screen and (max-width: 480px) {
+   .marge{
+       margin-left: 0px;
+
+   }
+}
